@@ -9,3 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    color: red;
+  }
+  .close{
+    display: none;
+  }
+  .tarea:hover .close {
+    display: block;
+  }
