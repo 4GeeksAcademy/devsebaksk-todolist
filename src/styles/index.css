@@ -9,6 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+  background-color: #02040a;
+}
 .icon {
     width: 1em;
     height: 1em;
